@@ -1,0 +1,21 @@
+.choiceBtn {
+  line-height: 20px;
+  width: 120px;
+}
+
+#gameDiv {
+  font-family: Arial, Helvetica, sans-serif;
+  border: 2px solid;
+  border-radius: 24px;
+  padding: 10px;
+  background-color: lightblue;
+  text-align: center;
+}
+
+#playerText {
+  color: rgb(65, 121, 55);
+}
+
+#computerText {
+  color: rgb(121, 105, 55);
+}
